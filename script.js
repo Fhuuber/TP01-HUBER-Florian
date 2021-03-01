@@ -6,7 +6,7 @@ $(document).ready(function () {
 
             lastname: "required",
             firstname: "required",
-            tel: {
+            phoneNumber: {
                 required: true,
                 number: true
             },
